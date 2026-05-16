@@ -217,6 +217,4 @@ The codebase has been refactored with a modular, production-ready architecture:
 - **Deterministic LLM**: Temperature=0 for consistent responses
 - **Persistent Storage**: Chroma database survives across runs
 
-## License
-
-[Add your license here]
+ 
