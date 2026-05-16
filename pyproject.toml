@@ -1,5 +1,5 @@
 [project]
-name = "hybrid_rag_agent"
+name = "hybrid-rag-agent"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
